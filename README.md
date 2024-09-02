@@ -4,7 +4,7 @@ Team Name : Techwizard_Dhaanish
 
 Team Members :
 
-1. Mohammed Aadhil A
+1. Mohamed Aadhil A
 2. Sabarish T K
 3. Keerthi Varman M
 4. Anusha R
